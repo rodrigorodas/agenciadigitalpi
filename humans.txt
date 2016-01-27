@@ -1,0 +1,25 @@
+/* Sitio con Responsive Web Design en HTML5, CSS3 y jQuery - www.agenciadigitalpi.com */
+
+/* TEAM */
+
+	Creador: Rodrigo Rodas
+	Contacto: 3.14[at]agenciadigitalpi.com - rr@rodrigorodas.com
+	Twitter: @rodasr1989 - @adigitalpi
+	Facebook: rodrigorodas1989 - AgenciaDigitalPI
+	De: Asunción - Paraguay
+	
+/* En memoria */
+
+	En memoria de mis padres Roberto Rodas y Maria Esther Servin, inicie este proyecto para salir adelante y hacerla una empresa reconocida a nivel mundial.
+	
+/* Agradecimientos */
+
+	Agradecimientos a todos los que siempre me apoyaron para seguir adelante con este proyecto a pesar de todos los tropiezos.
+	
+/* Sitio */
+
+	Last update: 30/04/2014
+	Lenguaje: Español
+	Standars: Html5, Css3, Javascript
+	Componentes: jQuery
+	Software: Notepad++, Sublime Text 2, Adobe Suite CS6 (Photoshop, Fireworks)
